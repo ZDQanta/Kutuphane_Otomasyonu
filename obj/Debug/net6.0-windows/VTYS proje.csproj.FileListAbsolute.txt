@@ -1,0 +1,192 @@
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.exe
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.deps.json
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.runtimeconfig.json
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.pdb
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Properties.Resources.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.GenerateResource.cache
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.AssemblyInfoInputs.cache
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.AssemblyInfo.cs
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\refint\VTYS proje.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.pdb
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.genruntimeconfig.cache
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\ref\VTYS proje.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.AssemblyReference.cache
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.CopyComplete
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Panel.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.KitapEkle.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.KitapGörüntüle.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.EmanetKitaplar.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.İadeEdilenKitaplar.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.ÖğrenciEkle.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Giriş.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Kaydol.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.GenelKitapBilgileri.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.ÖğrenciGörüntüle.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciGiriş.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciKaydol.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciPanel.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciBilgi.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciAlınanKitaplar.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciKütüphane.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Yedekle.resources
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Hasan Turna\Desktop\Proje\Nesneye Dayalı cpp\.vs\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.ResolveComReference.cache
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.exe
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.deps.json
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.runtimeconfig.json
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.pdb
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.AssemblyReference.cache
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.ResolveComReference.cache
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.EmanetKitaplar.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.GenelKitapBilgileri.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Giriş.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Kaydol.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.KitapEkle.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.KitapGörüntüle.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Panel.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Properties.Resources.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Yedekle.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciAlınanKitaplar.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciBilgi.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.ÖğrenciEkle.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciGiriş.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.ÖğrenciGörüntüle.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciKaydol.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciKütüphane.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciPanel.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.İadeEdilenKitaplar.resources
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.GenerateResource.cache
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.AssemblyInfoInputs.cache
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.AssemblyInfo.cs
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.CopyComplete
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\refint\VTYS proje.dll
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.pdb
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.genruntimeconfig.cache
+C:\Users\Hasan Turna\Desktop\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\ref\VTYS proje.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.AssemblyReference.cache
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.ResolveComReference.cache
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.pdb
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.exe
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.deps.json
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.runtimeconfig.json
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.pdb
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.EmanetKitaplar.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.GenelKitapBilgileri.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Giriş.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Kaydol.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.KitapEkle.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.KitapGörüntüle.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Properties.Resources.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Yedekle.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciAlınanKitaplar.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciBilgi.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.ÖğrenciEkle.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciGiriş.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.ÖğrenciGörüntüle.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciKaydol.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciKütüphane.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.İadeEdilenKitaplar.resources
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.GenerateResource.cache
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.AssemblyInfoInputs.cache
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.AssemblyInfo.cs
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.Up2Date
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\refint\VTYS proje.dll
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.genruntimeconfig.cache
+C:\Users\hasan\Downloads\VTYS Proje son-20240911T203219Z-001\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\ref\VTYS proje.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.exe
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\VTYS proje.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.ResolveComReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.EmanetKitaplar.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.GenelKitapBilgileri.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Giriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Kaydol.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.KitapEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.KitapGörüntüle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.Yedekle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciAlınanKitaplar.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciBilgi.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.ÖğrenciEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYSProjesi.ÖğrenciGörüntüle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciKaydol.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.ÖğrenciKütüphane.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS_proje.İadeEdilenKitaplar.resources
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.csproj.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\refint\VTYS proje.dll
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\VTYS proje.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\VTYS Proje son\VTYS proje\VTYS proje\obj\Debug\net6.0-windows\ref\VTYS proje.dll

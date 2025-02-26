@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Kaydol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yedekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖğrenciAlınanKitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖğrenciBilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖğrenciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GenelKitapBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmanetKitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KitapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KitapGörüntüle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖğrenciGiriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖğrenciGörüntüle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖğrenciKaydol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖğrenciKütüphane.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖğrenciPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İadeEdilenKitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
